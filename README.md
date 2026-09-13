@@ -26,7 +26,9 @@ Have you ever been in a voice chat with friends, only to have them constantly co
 
 MicLock solves this. It puts you back in the driver's seat. Whether you are using standard hardware, complex virtual mixers (like SteelSeries Sonar), or simply voice chatting with friends, MicLock ensures your audio remains consistent exactly the way you configured it. 
 
-It’s your microphone and your settings—nothing should change without your permission.
+**It’s your microphone and your settings—nothing should change without your permission.**
+
+Even if you have disabled 'Exclusive Mode' (the setting that allows applications to take exclusive control of your device), many third-party applications can still modify your microphone levels in the background without your permission. MicLock provides a definitive solution by locking your settings at the system level.
 
 
 ## Getting Started and Installation
