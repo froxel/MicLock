@@ -29,15 +29,17 @@ MicLock solves this. It puts you back in the driver's seat. Whether you are usin
 It’s your microphone and your settings—nothing should change without your permission.
 
 
-## Getting Started
+## Getting Started and Installation
 
-1.  Download the latest release from the Releases tab.
-2.  Extract the .zip file.
-3.  Run MicLock.exe.
-4.  (Optional) Check "Run at Windows startup" to keep your locks active every time you boot.
+> **No installer. No admin rights needed. Just a single .exe file that runs from anywhere.**
 
-Cost: Absolutely Free.
-License: Open Source.
+[![Download MicLock v1.0.0](https://img.shields.io/badge/Download-MicLock%20v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/froxel/MicLock/releases/download/v1.0.0/MicLock.exe)
+
+1. **Download:** Click the button above to get the software.
+2. **Move:** Move the `MicLock.exe` file to your desired folder.
+3. **Run:** Launch `MicLock.exe`. 
+    * *Note: This application does not require administrator rights to run.*
+4. **Configure:** (Optional) Check "Run at Windows startup" to keep your locks active every time you boot.
 
 ## Build from Source
 
